@@ -1,0 +1,6 @@
+C:\Personal\Cre\Algorithms\PracticeAlgorithms\PracticeAlgorithms\bin\Debug\PracticeAlgorithms.exe.config
+C:\Personal\Cre\Algorithms\PracticeAlgorithms\PracticeAlgorithms\obj\Debug\PracticeAlgorithms.csprojResolveAssemblyReference.cache
+C:\Personal\Cre\Algorithms\PracticeAlgorithms\PracticeAlgorithms\bin\Debug\PracticeAlgorithms.exe
+C:\Personal\Cre\Algorithms\PracticeAlgorithms\PracticeAlgorithms\bin\Debug\PracticeAlgorithms.pdb
+C:\Personal\Cre\Algorithms\PracticeAlgorithms\PracticeAlgorithms\obj\Debug\PracticeAlgorithms.exe
+C:\Personal\Cre\Algorithms\PracticeAlgorithms\PracticeAlgorithms\obj\Debug\PracticeAlgorithms.pdb
